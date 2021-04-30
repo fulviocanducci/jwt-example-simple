@@ -1,0 +1,15 @@
+{
+    "name": "canducci/token",
+    "description": "Token Bearer",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "fulviocanducci",
+            "email": "fulviocanducci@hotmail.com"
+        }
+    ],
+    "require": {
+        "firebase/php-jwt": "^5.2"
+    }
+}
